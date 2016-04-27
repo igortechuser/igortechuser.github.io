@@ -1,0 +1,3 @@
+User-agent: *
+Host: tech48.ru
+Sitemap: http://tech48.ru/sitemap.xml
